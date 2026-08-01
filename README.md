@@ -8,5 +8,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vishrutchinta/C-DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vishrutchinta/C-DSA/tree/master/0151-reverse-words-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vishrutchinta/C-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
