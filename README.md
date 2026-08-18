@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vishrutchinta/C-DSA/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/vishrutchinta/C-DSA/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vishrutchinta/C-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vishrutchinta/C-DSA/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/vishrutchinta/C-DSA/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/vishrutchinta/C-DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
