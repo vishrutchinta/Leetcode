@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/vishrutchinta/C-DSA/tree/master/1251-average-selling-price) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/vishrutchinta/C-DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/vishrutchinta/C-DSA/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/vishrutchinta/C-DSA/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vishrutchinta/C-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vishrutchinta/C-DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Linked List
