@@ -2,31 +2,36 @@
 class Solution {
 public:
     bool isValid(std::string s) {
-        std::stack<char> st;
-
-        for (char c : s) {
-            // Push opening brackets onto the stack
-            if (c == '(' || c == '{' || c == '[') {
-                st.push(c);
-            } 
-            // Handle closing brackets
-            else {
-                // If stack is empty, no matching open bracket exists
-                if (st.empty()) return false;
-
-                char top = st.top();
-                // Check for matching pairs
-                if ((c == ')' && top == '(') ||
-                    (c == '}' && top == '{') ||
-                    (c == ']' && top == '[')) {
-                    st.pop();
-                } else {
-                    return false; // Mismatched brackets
-                }
+        stack<char> st;
+        for(int i=0;i<=s.size()-1;i++){
+            if(s[i] =='{' || s[i] == '[' || s[i] == '('){
+                st.push(s[i]);
             }
-        }
-
-        // Return true only if all brackets were properly matched and popped
-        return st.empty();
+            else if(st.empty()){
+                return false;
+            }
+            else{
+                if(s[i] == '}' && st.top() == '{'){
+                    st.pop();
+                }
+                else if(s[i] == ']' && st.top() == '['){
+                    st.pop();
+                }
+                else if(s[i] == ')' && st.top() == '('){
+                    st.pop();
+                }
+                else{
+                    st.push(s[i]);
+                }
+                
+            }
+            
     }
-};
+    if(st.empty()){
+        return true;
+
+    }
+    else{
+        return false;
+    }
+}};
