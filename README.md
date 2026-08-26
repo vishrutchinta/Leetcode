@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishrutchinta/C-DSA/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vishrutchinta/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Database
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vishrutchinta/C-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vishrutchinta/C-DSA/tree/master/0016-3sum-closest) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vishrutchinta/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishrutchinta/C-DSA/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vishrutchinta/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vishrutchinta/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
