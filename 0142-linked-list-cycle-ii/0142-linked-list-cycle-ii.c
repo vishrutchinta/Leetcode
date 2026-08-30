@@ -22,8 +22,7 @@ struct ListNode *detectCycle(struct ListNode *head) {
         fast = fast->next->next;
 
         if (slow == fast) {
-            /* Cycle found: move one pointer to head, advance both by 1 step
-               at a time; they meet exactly at the start of the cycle. */
+            
             struct ListNode *ptr = head;
             while (ptr != slow) {
                 ptr = ptr->next;
