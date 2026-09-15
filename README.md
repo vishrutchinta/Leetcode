@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vishrutchinta/C-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vishrutchinta/C-DSA/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/vishrutchinta/C-DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/vishrutchinta/C-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishrutchinta/C-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/vishrutchinta/C-DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishrutchinta/C-DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vishrutchinta/C-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishrutchinta/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Database
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vishrutchinta/C-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vishrutchinta/C-DSA/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/vishrutchinta/C-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishrutchinta/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Sorting
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vishrutchinta/C-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishrutchinta/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 ## Range Minimum/Maximum Query
 |  |
@@ -93,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vishrutchinta/C-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishrutchinta/C-DSA/tree/master/0142-linked-list-cycle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vishrutchinta/C-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
