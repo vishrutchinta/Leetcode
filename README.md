@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vishrutchinta/C-DSA/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/vishrutchinta/C-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishrutchinta/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/vishrutchinta/C-DSA/tree/master/0134-gas-station) |
 ## Sorting
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vishrutchinta/C-DSA/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/vishrutchinta/C-DSA/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
