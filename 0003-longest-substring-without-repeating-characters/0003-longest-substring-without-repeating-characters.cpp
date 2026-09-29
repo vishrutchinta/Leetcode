@@ -8,7 +8,7 @@ public:
         int j=0;
         int sum = 0;
         while(i<end){
-            int ch = (unsigned char)s[i];   // 0..255, always a valid index;
+            int ch = (unsigned char)s[i];  
             arr[ch]++;
             sum++;
             if(arr[ch]>1){
