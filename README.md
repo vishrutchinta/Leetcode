@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vishrutchinta/C-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishrutchinta/C-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vishrutchinta/C-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vishrutchinta/C-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/vishrutchinta/C-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vishrutchinta/C-DSA/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vishrutchinta/C-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vishrutchinta/C-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/vishrutchinta/C-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vishrutchinta/C-DSA/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vishrutchinta/C-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vishrutchinta/C-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishrutchinta/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vishrutchinta/C-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
