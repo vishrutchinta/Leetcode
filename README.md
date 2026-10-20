@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vishrutchinta/C-DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishrutchinta/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/vishrutchinta/C-DSA/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/vishrutchinta/C-DSA/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vishrutchinta/C-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/vishrutchinta/C-DSA/tree/master/0162-find-peak-element) |
 | [0450-delete-node-in-a-bst](https://github.com/vishrutchinta/C-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vishrutchinta/C-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vishrutchinta/C-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
