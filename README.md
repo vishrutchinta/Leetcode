@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vishrutchinta/C-DSA/tree/master/0162-find-peak-element) |
 | [0705-design-hashset](https://github.com/vishrutchinta/C-DSA/tree/master/0705-design-hashset) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vishrutchinta/C-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vishrutchinta/C-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Sorting
 |  |
 | ------- |
@@ -176,4 +177,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vishrutchinta/C-DSA/tree/master/0705-design-hashset) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vishrutchinta/C-DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vishrutchinta/C-DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vishrutchinta/C-DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vishrutchinta/C-DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vishrutchinta/C-DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vishrutchinta/C-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
