@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vishrutchinta/C-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vishrutchinta/C-DSA/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vishrutchinta/C-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0705-design-hashset](https://github.com/vishrutchinta/C-DSA/tree/master/0705-design-hashset) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vishrutchinta/C-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vishrutchinta/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/vishrutchinta/C-DSA/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/vishrutchinta/C-DSA/tree/master/0162-find-peak-element) |
+| [0705-design-hashset](https://github.com/vishrutchinta/C-DSA/tree/master/0705-design-hashset) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vishrutchinta/C-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishrutchinta/C-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/vishrutchinta/C-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishrutchinta/C-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0705-design-hashset](https://github.com/vishrutchinta/C-DSA/tree/master/0705-design-hashset) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -165,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vishrutchinta/C-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vishrutchinta/C-DSA/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vishrutchinta/C-DSA/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
