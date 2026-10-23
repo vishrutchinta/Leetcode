@@ -201,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/vishrutchinta/C-DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/vishrutchinta/C-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
