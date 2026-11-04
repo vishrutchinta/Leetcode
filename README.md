@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/vishrutchinta/C-DSA/tree/master/0705-design-hashset) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vishrutchinta/C-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/vishrutchinta/C-DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [1929-concatenation-of-array](https://github.com/vishrutchinta/C-DSA/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vishrutchinta/C-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/vishrutchinta/C-DSA/tree/master/1929-concatenation-of-array) |
 ## Tree
 |  |
 | ------- |
