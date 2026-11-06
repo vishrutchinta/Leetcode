@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vishrutchinta/C-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vishrutchinta/C-DSA/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/vishrutchinta/C-DSA/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/vishrutchinta/C-DSA/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishrutchinta/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/vishrutchinta/C-DSA/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/vishrutchinta/C-DSA/tree/master/0162-find-peak-element) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vishrutchinta/C-DSA/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vishrutchinta/C-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/vishrutchinta/C-DSA/tree/master/1929-concatenation-of-array) |
 ## Tree
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vishrutchinta/C-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/vishrutchinta/C-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
