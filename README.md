@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vishrutchinta/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/vishrutchinta/C-DSA/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/vishrutchinta/C-DSA/tree/master/0162-find-peak-element) |
+| [0485-max-consecutive-ones](https://github.com/vishrutchinta/C-DSA/tree/master/0485-max-consecutive-ones) |
 | [0705-design-hashset](https://github.com/vishrutchinta/C-DSA/tree/master/0705-design-hashset) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vishrutchinta/C-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1470-shuffle-the-array](https://github.com/vishrutchinta/C-DSA/tree/master/1470-shuffle-the-array) |
