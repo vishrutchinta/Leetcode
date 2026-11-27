@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vishrutchinta/C-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/vishrutchinta/C-DSA/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/vishrutchinta/C-DSA/tree/master/0162-find-peak-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vishrutchinta/C-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vishrutchinta/C-DSA/tree/master/0485-max-consecutive-ones) |
 | [0705-design-hashset](https://github.com/vishrutchinta/C-DSA/tree/master/0705-design-hashset) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vishrutchinta/C-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vishrutchinta/C-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vishrutchinta/C-DSA/tree/master/0016-3sum-closest) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vishrutchinta/C-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishrutchinta/C-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/vishrutchinta/C-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishrutchinta/C-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vishrutchinta/C-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0705-design-hashset](https://github.com/vishrutchinta/C-DSA/tree/master/0705-design-hashset) |
 ## Floyd's Cycle Finding Algorithm
 |  |
